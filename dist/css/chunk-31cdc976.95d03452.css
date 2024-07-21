@@ -1,0 +1,22 @@
+header[data-v-69bc5354] {
+    top: 2.5rem;
+    position: absolute;
+    width: 100%;
+    padding: 0 0.625rem;
+    height: 2.75rem;
+    background: #fff;
+    box-sizing: border-box;
+    font-size: 0.75rem;
+}
+.tab-item[data-v-69bc5354] {
+    text-align: center;
+}
+.tab-title[data-v-69bc5354] {
+    color: #000;
+    padding-bottom: 0.3125rem;
+    box-sizing: border-box;
+}
+.active .tab-title[data-v-69bc5354] {
+    color: #6495ed;
+    border-bottom: 0.03125rem solid #6495ed;
+}

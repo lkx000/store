@@ -1,0 +1,12 @@
+header[data-v-186f641c] {
+    height: 2.5rem;
+    text-align: center;
+    background: #6495ed;
+    color: #fff;
+    font-size: 0.8125rem;
+    line-height: 2.5rem;
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+    top: 0;
+}
