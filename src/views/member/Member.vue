@@ -5,7 +5,7 @@
             <div class="container" v-show="mainarea">
                 <div class="floor floor_one">
                     <img src="../../../public/img/github.png" alt />
-                    <p>Open Free Share</p>
+                    <p>点击登陆</p>
                 </div>
                 <div class="floor floor_item floor_two flex-align-center flex-between" @click="onInfo">
                     <p>{{ $t("m.member.info") }}</p>
